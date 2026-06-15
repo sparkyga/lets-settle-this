@@ -31,8 +31,8 @@ station usable in a busy school hallway with no setup time for the user.
 
 ## Photos
 
-![LED wall showing live poll results](assets/display-live-voting.jpg)
+![LED wall showing live poll results](display-live-voting.jpg)
 
-![Full view of the display and button station](assets/display-full-view.jpg)
+![Full view of the display and button station](display-full-view.jpg)
 
-![Custom button enclosure](assets/button-enclosure.jpg)
+![Custom button enclosure](button-enclosure.png)
